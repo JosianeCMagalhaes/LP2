@@ -1,0 +1,10 @@
+C:\Users\victh\source\repos\Imposto\Imposto\bin\Debug\Imposto.exe.config
+C:\Users\victh\source\repos\Imposto\Imposto\bin\Debug\Imposto.exe
+C:\Users\victh\source\repos\Imposto\Imposto\bin\Debug\Imposto.pdb
+C:\Users\victh\source\repos\Imposto\Imposto\obj\Debug\Imposto.csprojAssemblyReference.cache
+C:\Users\victh\source\repos\Imposto\Imposto\obj\Debug\Imposto.Form1.resources
+C:\Users\victh\source\repos\Imposto\Imposto\obj\Debug\Imposto.Properties.Resources.resources
+C:\Users\victh\source\repos\Imposto\Imposto\obj\Debug\Imposto.csproj.GenerateResource.cache
+C:\Users\victh\source\repos\Imposto\Imposto\obj\Debug\Imposto.csproj.CoreCompileInputs.cache
+C:\Users\victh\source\repos\Imposto\Imposto\obj\Debug\Imposto.exe
+C:\Users\victh\source\repos\Imposto\Imposto\obj\Debug\Imposto.pdb
